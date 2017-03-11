@@ -26,6 +26,7 @@ Below, the best links to learn web development:
 #### Front-end
 
 ##### HTML
+- [Codecademy](https://www.codecademy.com/pt-BR/learn/web)
 - [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/getting-to-know-html/)
 
 ##### CSS
