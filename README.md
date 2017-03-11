@@ -26,4 +26,5 @@ Below, the best links to learn web development:
 #### Front-end
 
 ##### CSS
+- [Hackr.io](https://hackr.io/tutorials/learn-css)
 - [Learn CSS Layout](http://learnlayout.com/)
