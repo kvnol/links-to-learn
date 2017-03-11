@@ -10,10 +10,12 @@ A list of great links to learn and pratice design and programming.
     - [CSS](#css)
     - [Javascript](#javascript)
 
+----
+
 ### Design
 Below, the best links to learn design:
 
-#### UI Design
+##### UI Design
 - [Designlab](http://trydesignlab.com) :moneybag:
 - [GoodUI](http://goodui.org/)
 - [Learn UI Design](http://learnui.design/) :moneybag:
@@ -21,5 +23,7 @@ Below, the best links to learn design:
 ### Development
 Below, the best links to learn web development:
 
-#### CSS
+#### Front-end
+
+##### CSS
 - [Learn CSS Layout](http://learnlayout.com/)
