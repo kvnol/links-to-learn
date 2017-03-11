@@ -25,6 +25,9 @@ Below, the best links to learn web development:
 
 #### Front-end
 
+##### HTML
+- [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/getting-to-know-html/)
+
 ##### CSS
 - [Flexbox Cheatsheet](http://yoksel.github.io/flex-cheatsheet/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
