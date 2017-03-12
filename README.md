@@ -22,6 +22,8 @@ Below, the best links to learn design:
 - [GoodUI](http://goodui.org/)
 - [Learn UI Design](http://learnui.design/) :moneybag:
 
+===
+
 ### Development
 Below, the best links to learn web development:
 
@@ -42,9 +44,12 @@ Below, the best links to learn web development:
 - [Learn CSS Layout](http://pt-pt.learnlayout.com/) :brazil:
 - [SoloLearn](https://www.sololearn.com/Course/CSS/)
 
-##### General
+##### Javascript
+- [You Might Not Need Jquery](http://youmightnotneedjquery.com/)
+
+#### General
 - [Stackoverflow](http://stackoverflow.com/)
 - [Stackoverflow](https://pt.stackoverflow.com/) :brazil:
 
-##### Paid Courses
+#### Paid Courses
 - [Alura](https://www.alura.com.br/) :brazil:
