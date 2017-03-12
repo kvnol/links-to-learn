@@ -30,7 +30,7 @@ Below, the best links to learn web development:
 
 
 ##### HTML
-- [Codecademy](https://www.codecademy.com/pt-BR/learn/web)
+- [Codecademy](https://www.codecademy.com/pt-BR/learn/web) :brazil:
 - [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/getting-to-know-html/)
 
 ##### CSS
@@ -39,12 +39,13 @@ Below, the best links to learn web development:
 - [Flexbox Froggy](http://flexboxfroggy.com/)
 - [Hackr.io](https://hackr.io/tutorials/learn-css)
 - [Learn CSS Layout](http://learnlayout.com/)
+- [Learn CSS Layout](http://pt-pt.learnlayout.com/) :brazil:
 - [SoloLearn](https://www.sololearn.com/Course/CSS/)
-- [Tableless](https://tableless.com.br/)
+- [Tableless](https://tableless.com.br/) :brazil:
 
 ##### Paid Courses
 - [Alura](https://www.alura.com.br/)
 
 ##### General
 - [Stackoverflow](http://stackoverflow.com/)
-- [Stackoverflow(PT)](https://pt.stackoverflow.com/)
+- [Stackoverflow](https://pt.stackoverflow.com/) :brazil:
