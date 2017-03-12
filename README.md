@@ -12,8 +12,6 @@ A list of great links to learn and pratice design and programming.
   - [All in one](#all-in-one)
   - [General](#general)
   
-
-
 ----
 
 ### Design
@@ -35,6 +33,7 @@ Below, the best links to learn web development:
 
 ##### HTML
 - [Codecademy](https://www.codecademy.com/pt-BR/learn/web) :brazil:
+- [Free Code Camp](https://www.freecodecamp.com/)
 - [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/getting-to-know-html/)
 
 ##### CSS
@@ -58,4 +57,3 @@ Below, the best links to learn web development:
 #### General
 - [Stackoverflow](http://stackoverflow.com/)
 - [Stackoverflow](https://pt.stackoverflow.com/) :brazil:
-
