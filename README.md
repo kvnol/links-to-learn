@@ -9,6 +9,8 @@ A list of great links to learn and pratice design and programming.
     - [HTML](#html)
     - [CSS](#css)
     - [Javascript](#javascript)
+- [Paid Courses](#paid-courses)
+- [General](#general)
 
 ----
 
@@ -24,6 +26,8 @@ Below, the best links to learn design:
 Below, the best links to learn web development:
 
 #### Front-end
+- [CodeSchool] (https://www.codeschool.com/)
+
 
 ##### HTML
 - [Codecademy](https://www.codecademy.com/pt-BR/learn/web)
@@ -36,3 +40,11 @@ Below, the best links to learn web development:
 - [Hackr.io](https://hackr.io/tutorials/learn-css)
 - [Learn CSS Layout](http://learnlayout.com/)
 - [SoloLearn](https://www.sololearn.com/Course/CSS/)
+- [Tableless](https://tableless.com.br/)
+
+##### Paid Courses
+- [Alura](https://www.alura.com.br/)
+
+##### General
+- [Stackoverflow](http://stackoverflow.com/)
+- [Stackoverflow(PT)](https://pt.stackoverflow.com/)
