@@ -44,7 +44,7 @@ Below, the best links to learn web development:
 - [Tableless](https://tableless.com.br/) :brazil:
 
 ##### Paid Courses
-- [Alura](https://www.alura.com.br/)
+- [Alura](https://www.alura.com.br/) :brazil:
 
 ##### General
 - [Stackoverflow](http://stackoverflow.com/)
