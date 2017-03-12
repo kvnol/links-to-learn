@@ -9,8 +9,8 @@ A list of great links to learn and pratice design and programming.
     - [HTML](#html)
     - [CSS](#css)
     - [Javascript](#javascript)
-- [General](#general)
-- [Paid Courses](#paid-courses)
+  - [General](#general)
+  - [Paid Courses](#paid-courses)
 
 ----
 
