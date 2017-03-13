@@ -50,6 +50,7 @@ Below, the best links to learn web development:
 - [You Might Not Need Jquery](http://youmightnotneedjquery.com/)
 - [Learn-js](http://www.learn-js.org)
 - [MVA - Microsoft](https://mva.microsoft.com/en-us/training-courses/javascript-fundamentals-for-absolute-beginners-14194)
+- [Treehouse - Javascript Basics](https://teamtreehouse.com/library/javascript-basics)
 
 ##### All in one     
 - [Alura](https://www.alura.com.br/) :brazil: :moneybag:
