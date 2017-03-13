@@ -46,6 +46,7 @@ Below, the best links to learn web development:
 - [SoloLearn](https://www.sololearn.com/Course/CSS/)
 
 ##### Javascript
+- [CodeWars](https://www.codewars.com/)
 - [You Might Not Need Jquery](http://youmightnotneedjquery.com/)
 - [MVA - Microsoft](https://mva.microsoft.com/en-us/training-courses/javascript-fundamentals-for-absolute-beginners-14194)
 
