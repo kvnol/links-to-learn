@@ -22,8 +22,6 @@ Below, the best links to learn design:
 - [GoodUI](http://goodui.org/)
 - [Learn UI Design](http://learnui.design/) :moneybag:
 
-----
-
 ### Development
 Below, the best links to learn web development:
 
