@@ -26,7 +26,7 @@ Below, the best links to learn design:
 Below, the best links to learn web development:
 
 #### Front-end
-- [CodeSchool] (https://www.codeschool.com/)
+- [CodeSchool](https://www.codeschool.com/)
 - [Tableless](https://tableless.com.br/) :brazil:
 
 ##### HTML
