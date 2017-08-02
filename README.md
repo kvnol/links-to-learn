@@ -55,6 +55,7 @@ Below, the best links to learn web development:
 - [Alura](https://www.alura.com.br/) :brazil: :moneybag:
 - [Udacity](https://br.udacity.com/) :brazil: :moneybag:
 - [Udemy](https://www.udemy.com/) :brazil: :moneybag:
+- [Paqmind](http://paqmind.com/)
 
 #### General
 - [Stackoverflow](http://stackoverflow.com/)
